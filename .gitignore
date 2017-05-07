@@ -3,10 +3,12 @@
 *.lo
 *.o
 *.obj
+*.res
 
 # Precompiled Headers
 *.gch
 *.pch
+*.ipch
 
 # Compiled Dynamic libraries
 *.so
@@ -27,3 +29,11 @@
 *.exe
 *.out
 *.app
+
+*.db
+*.*log
+*.ilk
+*.pdb
+
+# User generated files (local)
+*.user
